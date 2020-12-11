@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Health_App/static/css/main.045fdf19.chunk.css",
+    "main.js": "/Health_App/static/js/main.ffaa9d12.chunk.js",
+    "main.js.map": "/Health_App/static/js/main.ffaa9d12.chunk.js.map",
+    "runtime-main.js": "/Health_App/static/js/runtime-main.1c62e9d3.js",
+    "runtime-main.js.map": "/Health_App/static/js/runtime-main.1c62e9d3.js.map",
+    "static/js/2.8ca04ec9.chunk.js": "/Health_App/static/js/2.8ca04ec9.chunk.js",
+    "static/js/2.8ca04ec9.chunk.js.map": "/Health_App/static/js/2.8ca04ec9.chunk.js.map",
+    "index.html": "/Health_App/index.html",
+    "precache-manifest.4d2c944aac0389bbe0e98254d914437f.js": "/Health_App/precache-manifest.4d2c944aac0389bbe0e98254d914437f.js",
+    "service-worker.js": "/Health_App/service-worker.js",
+    "static/css/main.045fdf19.chunk.css.map": "/Health_App/static/css/main.045fdf19.chunk.css.map",
+    "static/js/2.8ca04ec9.chunk.js.LICENSE.txt": "/Health_App/static/js/2.8ca04ec9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Health_App/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c62e9d3.js",
+    "static/js/2.8ca04ec9.chunk.js",
+    "static/css/main.045fdf19.chunk.css",
+    "static/js/main.ffaa9d12.chunk.js"
+  ]
+}
